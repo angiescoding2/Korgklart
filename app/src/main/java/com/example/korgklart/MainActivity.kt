@@ -1,3 +1,18 @@
+/*
+ * TODO – KORGKLART | EXAMINATION 1
+ *
+ [x] 1. Skapa Androidprojekt och koppla till GitHub.
+ [x] 2. Skapa data class GroceryItem med minst tre egenskaper.
+ [ ] 3. Skapa ShoppingViewModel som hanterar inköpslistan.
+ [ ] 4. Skapa appens gränssnitt med Material 3 och tema.
+ [ ] 5. Lägg till TextField, kategorival och Button.
+ [ ] 6. Visa inköpslistan med LazyColumn.
+ [ ] 7. Lägg till funktion för att markera varor som inköpta.
+ [ ] 8. Lägg till funktioner för att redigera och ta bort varor.
+ [ ] 9. Visa statistik och hjälptext när listan är tom.
+ [ ] 10. Testa, felsök med Logcat och färdigställ README.
+ * GIT: Gör minst 5 tydliga commits under utvecklingen.
+ */
 package com.example.korgklart
 
 import android.os.Bundle
