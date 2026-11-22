@@ -3,7 +3,7 @@
  *
  [x] 1. Skapa Androidprojekt och koppla till GitHub.
  [x] 2. Skapa data class GroceryItem med minst tre egenskaper.
- [ ] 3. Skapa ShoppingViewModel som hanterar inköpslistan.
+ [x] 3. Skapa ShoppingViewModel som hanterar inköpslistan.
  [ ] 4. Skapa appens gränssnitt med Material 3 och tema.
  [ ] 5. Lägg till TextField, kategorival och Button.
  [ ] 6. Visa inköpslistan med LazyColumn.
